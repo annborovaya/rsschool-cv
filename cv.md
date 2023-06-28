@@ -21,3 +21,13 @@ function greet() {
   return('Hello world!');
 }
 ```
+
+### Experience
+* AndersenLab - Technical Sourcer (2021 - 2022)
+
+### Education
+* Polotsk State University - Finance and Credit (2012 - 2016)
+* AndersenLab - Manual QA course (2020)
+
+### English
+* B1
