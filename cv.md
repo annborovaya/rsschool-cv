@@ -1,10 +1,10 @@
 ## Hanna Baravaya
 
 ### Contacts
-* **Location:** Wroclaw, Poland.
+* **Location:** Wroclaw, Poland
 * **E-mail:** any.georg@gmail.com
 * **Discord:** annborovaya
-* **GitHub:** [annborovaya] (https://github.com/annborovaya)
+* **GitHub:** [annborovaya][def]
 
 ### About me
 I have backround in Finance. Also I have experience in IT-sphere as a Technical Sourcer.
@@ -31,3 +31,5 @@ function greet() {
 
 ### English
 * B1
+
+[def]: https://github.com/annborovaya
