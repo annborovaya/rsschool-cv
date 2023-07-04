@@ -1,5 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    width: 100%;
+    max-width: 1440px;
+    display: flex;
+    flex-direction: column;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-transform: uppercase;
+}
+
+main {
+    display: flex;
+}
+
+.cv-img {
+    width: 10%;
+    border-radius: 100px;
+}
+
+.rs-logo {
+    width: 5%;
 }
